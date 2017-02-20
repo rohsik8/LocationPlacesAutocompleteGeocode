@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23023656ba91dc12e963cf7d5682db5d2aba6262">
+        <dex dex="/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-3.2.65_97fc6c4d3f5f93babd7b16753c850a93e6dd216a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kishor/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_e98c39ba39ede7843c0ec74e615a4591525fc590.jar" />
+    </item>
+
+</items>

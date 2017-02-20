@@ -1,0 +1,482 @@
+[
+    {
+        "outputFile": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 155,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3101,
+                        "endColumn": 155,
+                        "endOffset": 3252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 158,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3257,
+                        "endColumn": 158,
+                        "endOffset": 3411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 155,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3416,
+                        "endColumn": 155,
+                        "endOffset": 3567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 134,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3572,
+                        "endColumn": 134,
+                        "endOffset": 3702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 139,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3707,
+                        "endColumn": 143,
+                        "endOffset": 3846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 159,
+                    "endOffset": 1006
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2941,
+                        "endColumn": 159,
+                        "endOffset": 3096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1011,
+                    "endColumn": 129,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 129,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endColumn": 159,
+                    "endOffset": 1296
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 159,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1301,
+                    "endColumn": 130,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 130,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endColumn": 129,
+                    "endOffset": 1557
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 129,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1562,
+                    "endColumn": 179,
+                    "endOffset": 1737
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 179,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1742,
+                    "endColumn": 198,
+                    "endOffset": 1936
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 198,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1941,
+                    "endColumn": 126,
+                    "endOffset": 2063
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 126,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2068,
+                    "endColumn": 174,
+                    "endOffset": 2238
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1942,
+                        "endColumn": 174,
+                        "endOffset": 2112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2243,
+                    "endColumn": 125,
+                    "endOffset": 2364
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1816,
+                        "endColumn": 125,
+                        "endOffset": 1937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2369,
+                    "endColumn": 173,
+                    "endOffset": 2538
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1642,
+                        "endColumn": 173,
+                        "endOffset": 1811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2543,
+                    "endColumn": 119,
+                    "endOffset": 2658
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1522,
+                        "endColumn": 119,
+                        "endOffset": 1637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2663,
+                    "endColumn": 141,
+                    "endOffset": 2800
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2117,
+                        "endColumn": 141,
+                        "endOffset": 2254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2805,
+                    "endColumn": 237,
+                    "endOffset": 3038
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2387,
+                        "endColumn": 237,
+                        "endOffset": 2620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3043,
+                    "endColumn": 127,
+                    "endOffset": 3166
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2259,
+                        "endColumn": 127,
+                        "endOffset": 2382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3171,
+                    "endColumn": 110,
+                    "endOffset": 3277
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2625,
+                        "endColumn": 110,
+                        "endOffset": 2731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3282,
+                    "endColumn": 160,
+                    "endOffset": 3438
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1361,
+                        "endColumn": 160,
+                        "endOffset": 1517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3443,
+                    "endColumn": 133,
+                    "endOffset": 3572
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endColumn": 133,
+                        "endOffset": 1356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3577,
+                    "endColumn": 91,
+                    "endOffset": 3664
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2736,
+                        "endColumn": 91,
+                        "endOffset": 2823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3669,
+                    "endColumn": 111,
+                    "endOffset": 3776
+                },
+                "from": {
+                    "file": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lt/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2828,
+                        "endColumn": 111,
+                        "endOffset": 2935
+                    }
+                }
+            }
+        ]
+    }
+]

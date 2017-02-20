@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/kishor/LocationPlacesAutocomplete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/color/common_signin_btn_text_dark.xml"
+    }
+]
